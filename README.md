@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shawnjiang1019
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Shawn. Welcome to my corner of the internet
+[![Shawn's most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnjiang1019&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
