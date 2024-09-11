@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">CS undergrad at the University of Toronto. Building, thinking and working towards a 135 bench.</h3>
+<h3 align="center">CS undergrad at the University of Toronto. Building, thinking and exploring.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
