@@ -51,14 +51,9 @@ Building, thinking, and exploring.
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shawnjiang1019&theme=tokyonight&hide_border=true&background=00000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnjiang1019&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shawnjiang1019&theme=tokyonight&hide_border=true&background=00000000" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawnjiang1019&theme=tokyonight" height="165" />
-
 </div>
+
 
 ---
 
